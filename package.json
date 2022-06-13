@@ -1,0 +1,23 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Bot used to connect individuals in medicine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdull118/Twitter-Bot.git"
+  },
+  "author": "Ahmadevelops",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Abdull118/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/Abdull118/Twitter-Bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.12.2"
+  }
+}
